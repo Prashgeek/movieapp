@@ -3,7 +3,7 @@ MERN Movie Application
 A full-stack MERN Movie App with JWT authentication, Admin role-based access, search, sort, pagination, and IMDb Top Movies data via TMDb.
 
 Live URLs==================================================
-Frontend: https://movieapp.vercel.app
+Frontend: https://movieapp-9nch.vercel.app/
 
 Backend: https://movieapp-l1n0.onrender.com
 ===========================================================
